@@ -1,0 +1,26 @@
+{
+    "star": {
+        "type": "Star",
+        "mass": 100,
+        "coords": [
+            0,
+            0
+        ],
+        "speed": [
+            0,
+            0
+        ]    
+    },
+    "planet": {
+        "type": "Planet",
+        "mass": 0,
+        "coords": [
+            0,
+            300
+        ],
+        "speed": [
+            60,
+            0
+        ]
+    }
+}
