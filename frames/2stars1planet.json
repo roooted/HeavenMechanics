@@ -19,8 +19,8 @@
     {
         "type": "Planet",
         "mass": 10,
-        "coords": [300, 300],
-        "speed": [80, -50]
+        "coords": [250, 250],
+        "speed": [80, -70]
     }
 
 }
