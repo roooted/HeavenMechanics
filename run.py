@@ -31,7 +31,7 @@ pixar1 = pg.PixelArray(face2.copy())
 
 
 # Переменные
-FPS = 60
+FPS = 25
 dt = 1 / FPS
 
 x0 = W * 3 // 2

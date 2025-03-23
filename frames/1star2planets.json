@@ -2,7 +2,7 @@
     "star": 
     {
         "type": "Star",
-        "mass": 100,
+        "mass": 200,
         "coords": [0, 0],
         "speed": [0, 0]
     },
@@ -12,7 +12,7 @@
         "type": "Planet",
         "mass": 10,
         "coords": [0, 300],
-        "speed": [40, 0]
+        "speed": [70, 0]
     },
 
     "planet_2": 
@@ -20,6 +20,6 @@
         "type": "Planet",
         "mass": 10,
         "coords": [300, 0],
-        "speed": [0, 40]
+        "speed": [0, -60]
     }
 }
